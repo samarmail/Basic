@@ -42,10 +42,10 @@
 #            - Path=/api/users/**
 
 
-#eureka:
-#  instance:
-#   hostname:localhost
-#   prefer-id-address:false
+eureka:
+  instance:
+   hostname:localhost
+   prefer-id-address:true
 
 
 server:
