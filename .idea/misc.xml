@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ecom-microservices-main/user/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-microservices-main/order/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-microservices-main/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-microservices-main/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-microservices-main/product/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-microservices-main/additional/kafka/consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-microservices-main/additional/kafka/producer/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-microservices-main/additional/config-mgmt/configdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-microservices-main/additional/config-mgmt/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-microservices-main/additional/FirstSpring/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-microservices-main/additional/interservice/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-microservices-main/additional/interservice/consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-microservices-main/additional/interservice/provider/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-microservices-main/additional/ecom-application/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-microservices-main/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-microservices-main/notification/pom.xml" />
+        <option value="$PROJECT_DIR$/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/user/pom.xml" />
+        <option value="$PROJECT_DIR$/product/pom.xml" />
+        <option value="$PROJECT_DIR$/order/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/notification/pom.xml" />
+        <option value="$PROJECT_DIR$/../gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../gatewayprac/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../gateway9/pom.xml" />
+        <option value="D:/9junedown/gateway/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../gatewayprac/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../gateway9/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

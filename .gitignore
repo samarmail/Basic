@@ -1,0 +1,5 @@
+# Ignore all .env files in the project
+.env
+**/.env
+logs
+**/logs
